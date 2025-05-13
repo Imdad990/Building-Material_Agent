@@ -1,0 +1,24 @@
+# ✅ Core Libraries
+pandas
+gspread
+nest_asyncio
+oauth2client
+asyncio
+
+# ✅ Telegram Bot
+python-telegram-bot==20.3
+
+# ✅ LangChain & Embedding
+langchain
+faiss-cpu
+sentence-transformers
+
+# ✅ OpenAI and HuggingFace APIs
+openai
+transformers
+
+# ✅ Google Search
+googlesearch-python
+
+# ✅ DuckDuckGo (optional alternative to googlesearch)
+duckduckgo-search
